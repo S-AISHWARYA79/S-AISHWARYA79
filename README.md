@@ -1,12 +1,13 @@
 # Hi, I'm Aishwarya S 👋
 
-### MCA Student | Aspiring Full-Stack Developer
+### MCA Student | Aspiring Software Developer & Data Analyst
 
-I'm currently pursuing my MCA and learning full-stack web development. I enjoy building websites, learning new technologies, and improving my coding skills through practical projects.
+I'm currently pursuing my MCA and developing my skills in software development and data analytics. I enjoy building practical applications, exploring new technologies, and applying what I learn through hands-on projects.
 
-- Currently working on **Career Compass AI**, a student placement management platform.
-- Learning React, TypeScript, Python, FastAPI, and PostgreSQL.
-- Interested in web development, UI design, and data analytics.
+- Building **Career Compass AI**, a student career and placement management platform.
+- Developing skills in Python, React, TypeScript, FastAPI, and PostgreSQL.
+- Exploring data analysis, SQL, and ways to turn data into useful insights.
+- Focused on continuous learning and building a strong foundation in software development and analytics.
 
 ## Tech Stack
 
