@@ -1,41 +1,51 @@
-Hi, I'm Aishwarya 👩‍💻
+# Hi, I'm Aishwarya S 👋
 
-🌟 MCA Student | Aspiring Full-Stack Developer
+### MCA Student | Aspiring Full-Stack Developer
 
-Welcome to my GitHub profile! I’m currently pursuing Masters of Computer Applications (MCA) with a keen interest in web development, UI/UX design, and scalable applications.
+I'm currently pursuing my MCA and learning full-stack web development. I enjoy building websites, learning new technologies, and improving my coding skills through practical projects.
 
-I enjoy learning modern frameworks and building projects that combine creativity with functionality.
+- Currently working on **Career Compass AI**, a student placement management platform.
+- Learning React, TypeScript, Python, FastAPI, and PostgreSQL.
+- Interested in web development, UI design, and data analytics.
 
-🔧 Tech Stack
+## Tech Stack
 
-Frontend: HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS
+**Frontend:** HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS
 
-Backend: Python (FastAPI basics), Node.js (exploring)
+**Backend:** Python, FastAPI
 
-Database: SQL, Local Storage
+**Database:** PostgreSQL, SQL
 
-Other Tools: Git, GitHub, VS Code
+**Tools:** Git, GitHub, VS Code
 
-📌 What I’m Up To
+## Projects
 
-🌱 Currently learning React + TypeScript + Tailwind
+### Career Compass AI
 
-🛠️ Building personal projects like portfolio websites & notes apps
+A web application for managing student profiles, job opportunities, applications, and campus placement activities.
 
-🎯 Goal: Transition into a Full-Stack Developer role
+**Technologies:** React, TypeScript, Tailwind CSS, FastAPI, PostgreSQL
 
-🚀 Featured Project
+[View Project on GitHub](https://github.com/S-AISHWARYA79/Career-Compass-AI)
 
-📂 Personal Portfolio
+### Personal Portfolio
 
-A responsive portfolio website showcasing my skills, education, and projects.
+A personal website showcasing my profile, skills, and projects.
 
-📫 Let’s Connect
+[Visit My Portfolio](https://s-aishwarya79.github.io/Personal-Portfolio/)
 
-✉️ Email - aishwaryashankar79@gmail.com
+## Certifications
 
-💼 LinkedIn - https://www.linkedin.com/in/aishwarya-s-9ba543386
+- Core Java — Ravvysoft Technologies
+- Python — Ravvysoft Technologies
 
-🌐 Portfolio Website - https://s-aishwarya79.github.io/Personal-Portfolio/
+## Connect With Me
 
-✨ “Code, Learn, Build, Repeat.” ✨
+- **LinkedIn:** [Aishwarya S](https://www.linkedin.com/in/aishwarya-s-9ba543386/)
+- **GitHub:** [S-AISHWARYA79](https://github.com/S-AISHWARYA79)
+- **Portfolio:** [Personal Portfolio](https://s-aishwarya79.github.io/Personal-Portfolio/)
+- **Email:** [aishwaryashankar79@gmail.com](mailto:aishwaryashankar79@gmail.com)
+
+---
+
+*Code, Learn, Build, Repeat.*
